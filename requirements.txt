@@ -1,0 +1,13 @@
+langchain>=1,<2
+langchain-classic>=1,<2
+langchain-community>=0.4,<1
+langchain-core>=1,<2
+langchain-openai>=1,<2
+langchain-text-splitters>=1,<2
+openai>=2.45,<4
+pinecone>=9,<10
+pydantic>=2,<3
+pypdf>=5,<7
+python-dotenv>=1,<2
+rank-bm25>=0.2,<1
+tiktoken>=0.9,<1

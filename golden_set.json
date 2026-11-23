@@ -1,0 +1,7 @@
+[
+  {"pregunta": "How does FastAPI replace the database session in tests?", "documento_id_esperado": "api/fastapi.md"},
+  {"pregunta": "What is the TTL of the Redis order-summary cache?", "documento_id_esperado": "cache/redis.md"},
+  {"pregunta": "How many PostgreSQL connections can each API instance open?", "documento_id_esperado": "database/postgresql.md"},
+  {"pregunta": "How many times can a Celery notification task be attempted?", "documento_id_esperado": "jobs/celery.md"},
+  {"pregunta": "How often does Prometheus scrape the API metrics endpoint?", "documento_id_esperado": "observability/prometheus.md"}
+]
